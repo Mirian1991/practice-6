@@ -1,9 +1,13 @@
 .headermain {
 	display: flex;
+	width: 1360px;
+	height: 81px;
 
 }
 
 .headerlogo {
+	width: 133px;
+	height: 31px;
 	margin-left: 86px;
 	margin-right: 503px;
 }
@@ -19,4 +23,45 @@ ul {
 
 .list {
 	justify-content: space-between;
+}
+
+
+
+
+.greece {
+	width: 1360px;
+	height: 569px;
+	position: relative;
+
+
+}
+
+
+
+.text1 {
+
+
+	position: absolute;
+	top: 226px;
+	right: 356px;
+	bottom: 308px;
+	left: 416px;
+	font-size: 78px;
+	color: white;
+}
+
+.text2 {
+
+	position: absolute;
+	top: 385px;
+	right: 519px;
+	bottom: 384px;
+	left: 527px;
+	color: white;
+}
+
+.section1 {
+	position: relative;
+	width: 1360px;
+	height: 569px;
 }
