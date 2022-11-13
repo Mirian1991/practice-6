@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&family=Roboto&display=swap');
+
+
 .headermain {
 	display: flex;
 	width: 1360px;
@@ -47,7 +50,8 @@ ul {
 	bottom: 308px;
 	left: 416px;
 	font-size: 78px;
-	color: white;
+	color: #ffffff;
+	font-family: arial;
 }
 
 .text2 {
@@ -57,11 +61,39 @@ ul {
 	right: 519px;
 	bottom: 384px;
 	left: 527px;
-	color: white;
+	color: #ffffff;
+	font-family: arial;
 }
 
 .section1 {
 	position: relative;
 	width: 1360px;
 	height: 569px;
+}
+
+
+.box {
+	width: 301px;
+	height: 431px;
+}
+
+h3 {
+	font-size: 14px;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 12px;
+}
+
+.lorem1 {
+	font-size: 15.998350143432617px;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 12px;
+}
+
+
+.section2 {
+	width: 1006px;
+	height: 731px;
+	display: flex;
+	flex-wrap: wrap;
+	column-gap: 20px;
 }
