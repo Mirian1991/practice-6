@@ -1,0 +1,22 @@
+.headermain {
+	display: flex;
+
+}
+
+.headerlogo {
+	margin-left: 86px;
+	margin-right: 503px;
+}
+
+ul {
+	width: 505px;
+	height: min 13px;
+	display: flex;
+	justify-content: space-between;
+
+}
+
+
+.list {
+	justify-content: space-between;
+}
